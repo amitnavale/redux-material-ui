@@ -1,8 +1,8 @@
 import { combineReducers } from "redux";
-import courses from "./courseReducer";
+import news from "./newsReducer";
 
 const rootReducer = combineReducers({
-  courses
+  news
 });
 
 export default rootReducer;
