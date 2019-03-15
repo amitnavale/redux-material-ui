@@ -1,3 +1,6 @@
+this is a fork of Corys Pluralsight course on redux. Attempting to integrate material-ui element inside it.
+
+ASIS from source..
 # Starter Kit for [Building Applications in React and Redux](http://www.pluralsight.com/author/cory-house) on Pluralsight
 
 ## Get Started
